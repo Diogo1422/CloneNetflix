@@ -5,4 +5,4 @@ Clone Netflix
 
 
 
-Este projeto é sobre uma página da Netflix feita com HTML, CSS, Sass e JavaScript
+Este projeto é sobre uma página da Netflix feita com HTML, CSS, e JavaScript
